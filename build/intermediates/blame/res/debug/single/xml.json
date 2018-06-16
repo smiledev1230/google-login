@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/xml/opener_paths.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/res/xml/opener_paths.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/xml/config.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/res/xml/config.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/res/xml/provider_paths.xml"
+    }
+]

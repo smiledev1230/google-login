@@ -1,0 +1,739 @@
+{
+  "APP": "MPC",
+  "PAGE_TITLE": {
+    "HomePage": "Profil",
+    "MessagesPage": "Messages",
+    "NewMessagePage": "Nouveau message",
+    "GroupsPage": "Groupes",
+    "NewGroupPage": "Nouveau groupe",
+    "NewCallPage": "Nouvel appel",
+    "FriendsPage": "Amis",
+    "AccountDeletePage": "Supprimer le compte",
+    "AddMembersPage": "Ajouter des membres",
+    "AddMembersCustomPage": "Ajouter des membres personnalisés",
+    "CountryCodePage": "Code du pays",
+    "GroupInfoPage": "Infos du groupe",
+    "MessageDestructPage": "Destruction du message",
+    "RequestsPage": "Demandes d'ami",
+    "SearchPeoplePage": "Chercher des personnes",
+    "SelectLangPage": "Choisir la langue",
+    "ChangeEmailPage": "Changer l’email",
+    "ChangePasswordPage": "Changer le mot de passe",
+    "InvitePage": "Invitation de l’application",
+    "LanguagePage": "Traduire le message",
+    "FeaturesPage": "Caractéristiques",
+    "ForwardMessagePage": "Transférer le message",
+    "ChatsPage": "Chats",
+    "CallsPage": "Appels",
+    "LoginPage": "MON CERCLE PRIVÉ"
+  },
+  "HomePage": {
+    "MyAccount": "Mon compte",
+    "FullName": "Nom complet",
+    "Username": "Nom d’utilisateur",
+    "Status": "Statut",
+    "More": "Plus",
+    "Settings": "Paramètres",
+    "ChangeEmail": "Changer l’adresse email",
+    "ChangePassword": "Changer le mot de passe",
+    "ServerLocation": "Emplacement du serveur",
+    "UnderDevelopment": "En cours de développement",
+    "MenuLanguage": "Langue du menu",
+    "TranslationLanguage": "Langue de traduction",
+    "DeleteAccount": "Supprimer le compte",
+    "AppVersion": "Version de l’application",
+    "Logout": "Se déconnecter",
+    "ClearAllChats": "Supprimer tous les chats",
+    "ClearAllChats2": "Supprimer tous les chats"
+  },
+  "MESSAGES": {
+    "NoConversation": "Aucune nouvelle conversation pour l’instant.",
+    "StartChat": "Démarrer un chat"
+  },
+  "NewMessage": {
+    "NoConversation": "Uh-oh!Vous n’avez pas encore ajouté d’amis."
+  },
+  "TabsPage": {
+    "Chats": "Chats",
+    "Call": "Appels",
+    "Friends": "Amis",
+    "Features": "Caractéristiques",
+    "Profile": "Profil"
+  },
+  "GroupsPage": {
+    "NoGroup": "Aucun nouveau groupe pour l’instant.",
+    "CreateNew": "En créer un nouveau"
+  },
+  "NewGroupPage": {
+    "GroupInfo": "Infos du groupe",
+    "NameofGroup": "Nom du groupe",
+    "Description": "Description",
+    "Describe": "Décrivez ce groupe",
+    "GroupMembers": "Participants",
+    "AddMembers": "Ajouter des participants",
+    "NoFriends": "Vous n'avez pas d'amis en ce moment pour démarrer une conversation de groupe."
+  },
+  "FriendsPage": {
+    "NoFriend": "Vous n'avez pas encore de nouvel ami"
+  },
+  "ContactsPage": {
+    "NoContacts": "Vous n’avez pas encore de nouveaux contacts",
+    "ImportAddressBook": "Importer un carnet d’adresses"
+  },
+  "AccountDeletePage": {
+    "DeleteTitle": "Êtes-vous sûr de vouloir supprimer votre compte ?Cette action ne peut pas être annulée",
+    "CheckLabel": "Supprimer tous les messages"
+  },
+  "AddMembersPage": {
+    "OhMessage": "Uh-oh!Désolé, mais vos amis font déjà partie de ce groupe."
+  },
+  "AddMembersCustomPage": {
+    "SecureUserInfo": "Sécuriser les infos de l’utilisateur",
+    "UserName": "Nom de l’utilisateur",
+    "Email": "Email :",
+    "PhoneNumber": "Numéro de téléphone :"
+  },
+  "CountryCodePage": {
+    "Phone": "Téléphone",
+    "SearchCode": "Chercher un code pays"
+  },
+  "GroupPage": {
+    "StickyText": "Mon cercle privé - C'est un mémo qui reste affiché en haut",
+    "StickyTime": "Il y a 21 heures",
+    "YouLeft": "Vous êtes parti",
+    "NoSend": "Vous ne pouvez pas envoyer de message à ce groupe",
+    "NoParticipant": "parce que vous n'en êtes plus un participant."
+  },
+  "GroupInfoPage": {
+    "Started": "Démarré",
+    "About": "À propos",
+    "GroupMembers": "Participant",
+    "AddMembers": "Ajouter un participant",
+    "SECURE": "SÉCURISER",
+    "AddEmailPhone": "Ajouter un email/un numéro de téléphone",
+    "More": "Plus",
+    "ExitGroup": "Quitter le groupe",
+    "DeleteGroup": "Supprimer le groupe"
+  },
+  "MessageDestructPage": {
+    "TypeTime": "Saisissez une heure...",
+    "Second": "Seconde",
+    "Minute": "Minute",
+    "Hour": "Heure",
+    "Day": "Jour",
+    "Week": "Semaine",
+    "Month": "Mois",
+    "Message": "Sélectionner l'heure à laquelle vous supprimez les messages"
+  },
+  "RequestsPage": {
+    "NoRequests": "Aucune nouvelle demande",
+    "SentRequest": "Demande d’ami envoyée.",
+    "HasRequest": "Vous a envoyé une demande d’ami.",
+    "RequestSent": "Demande d’ami envoyée"
+  },
+  "SearchPeoplePage": {
+    "NoFind": "Nous ne pouvons pas trouver de nouveaux utilisateurs pour l'instant",
+    "SearchNow": "Veuillez effectuer une recherche pour trouver des utilisateurs",
+    "NoSearchFind": "Aucun contact trouvé par ces critères de recherche"
+  },
+  "SelectLangPage": {
+    "SubTitle": "Votre message sera traduit",
+    "Translate": "Traduire",
+    "Title": "Choisissez la langue pour traduire le message"
+  },
+  "UserInfoPage": {
+    "SentRequest": "Vous a envoyé une demande d’ami.",
+    "FriendSent": "Demande d’ami envoyée.",
+    "NotFriends": "Vous n'êtes pas encore amis.",
+    "AlreadyFriends": "Vous êtes déjà des amis.",
+    "CancelRequest": "Annuler la demande d’ami.",
+    "SendRequest": "Envoyer une demande d’ami.",
+    "SendMessage": "Envoyer un message"
+  },
+  "VerificationPage": {
+    "VerifyAccount": "Vérifier votre compte",
+    "SubTitle1": "Veuillez vérifier",
+    "SubTitle2": "continuer",
+    "Resend": "Renvoyer",
+    "UpdateEmail": "Mettre à jour l’email",
+    "Logout": "Se déconnecter"
+  },
+  "ChangeEmailPage": {
+    "YourEmailAdress": "Votre adresse email",
+    "EnterNewEmail": "Veuillez saisir une nouvelle adresse email"
+  },
+  "ChangePasswordPage": {
+    "CurrentPassword": "Veuillez saisir le mot de passe en cours",
+    "NewPassword": "Veuillez saisir un nouveau mot de passe"
+  },
+  "ChatsPage": {
+    "PERSONAL": "PERSONNEL",
+    "GROUP": "GROUPE"
+  },
+  "FriendsTabPage": {
+    "FRIENDS": "AMIS",
+    "CONTACTS": "CONTACTS",
+    "REQUESTS": "DEMANDES"
+  },
+  "CallsTabPage": {
+    "ALL": "TOUT",
+    "GROUP": "GROUPE"
+  },
+  "CallsPage": {
+    "NoCalls": "Aucun nouvel appel pour le moment.",
+    "StartCall": "Démarrer l'appel"
+  },
+  "InvitePage": {
+    "FirstName": "Prénom",
+    "LastName": "Nom de famille",
+    "Email": "Email",
+    "Platform": "Plateforme",
+    "IOS": "iOS",
+    "Android": "Android",
+    "SendInvite": "Envoyer une invitation",
+    "InvitedUsers": "Utilisateurs invités",
+    "valideAlert": {
+      "ExistEmail": "L'email n'existe pas",
+      "FirstName": "Veuillez saisir votre prénom",
+      "LastName": "Veuillez saisir votre nom de famille",
+      "ValidEmail": "Veuillez saisir un email valide",
+      "Platform": "Veuillez sélectionner une plateforme",
+      "Error": "Erreur :"
+    }
+  },
+  "FriendProfilePage": {
+    "Chats": "Chats",
+    "Call": "Appels",
+    "Video": "Vidéo",
+    "Email": "Email",
+    "SMS": "SMS",
+    "CallLog": "Journal des appels",
+    "Outgoing": "Sortant",
+    "Cancelled": "Annulé",
+    "Incoming": "Entrant"
+  },
+  "FeaturesPage": {
+    "Personalization": "Personnalisation",
+    "Qualification": "Qualification",
+    "Newsletters": "Lettre d’information",
+    "Invoices": "Factures",
+    "AppInvite": "Invitation de l’application"
+  },
+  "LoginPage": {
+    "LOGIN": "SE CONNECTER",
+    "SIGNUP": "S'INSCRIRE",
+    "Log_in": "Se connecter",
+    "ForgotPassword": "Mot de passe oublié?",
+    "ConnectWith": "Ou connectez-vous avec",
+    "Sign_up": "Se connecter"
+  },
+  "ResetPasswordPage": {
+    "SubTitle1": "Saisissez l'email avec lequel vous vous êtes inscrit.",
+    "SubTitle2": "Nous vous enverrons un email pour le réinitialiser.",
+    "BackButton": "Retour à la page de connexion"
+  },
+  "ContactProfilePage": {
+    "Phone": "Téléphone",
+    "Email": "Email",
+    "Organization": "Organisation",
+    "Address": "Adresse",
+    "WebAddress": "Adresse web",
+    "Birthday": "Anniversaire",
+    "Notes": "Remarques",
+    "MessengerAccount": "Compte Messenger",
+    "Nickname": "Surnom",
+    "Relationship": "Relations"
+  },
+  "ChatActionPage": {
+    "Copy": "Copier",
+    "Forward": "Transférer",
+    "Translate": "Traduire",
+    "Delete": "Supprimer",
+    "timedDelete": "Suppression programmée"
+  },
+  "CallingPage": {
+    "Mute": "Silencieux",
+    "Chats": "Chats",
+    "Dynamic": "Dynamique",
+    "VideoCall": "Appel vidéo",
+    "Keyboard": "Clavier",
+    "Contacts": "Contacts"
+  },
+  "PopupAcceptPage": {
+    "IncomingCall": "Appel entrant"
+  },
+  "COMMON": {
+    "searchFriend": "Chercher un ami ou un nom d’utilisateur",
+    "PreviousMessage": "Charger les messages précédents",
+    "TranslateTo": "Traduire en :",
+    "Contact": "CONTACT",
+    "SearchPeople": "Chercher des personnes",
+    "LoadingMore": "Chargement supplémentaire...",
+    "Avatar": "Avatar",
+    "FRIENDS": "AMIS",
+    "CONTACTS": "CONTACTS",
+    "REQUESTS": "DEMANDES",
+    "AllUserMessage": "Le message a été supprimé",
+    "OwnUserMessage": "Supprimer le message de la vue des utilisateurs",
+    "LanguageButton": "MPC proposé en"
+  },
+  "PLACEHOLDER": {
+    "TypeMessage": "Saisissez un message",
+    "SearchGroup": "Cherchez un groupe",
+    "NameofGroup": "Nom du groupe",
+    "InputPassword": "Saisir le mot de passe",
+    "NewEmailAddress": "Nouvelle adresse email",
+    "ReEnterEmail": "Saisir à nouveau l’adresse email",
+    "Password": "Mot de passe",
+    "NewPassword": "Nouveau mot de passe",
+    "ConfirmPassword": "Confirmer le nouveau mot de passe",
+    "Searchlanguage": "Rechercher une langue",
+    "Email": "Email",
+    "FullName": "Nom complet",
+    "RePassword": "Re-mot de passe"
+  },
+  "BUTTON": {
+    "Done": "Terminé",
+    "Back": "Précédent",
+    "Cancel": "Annuler",
+    "Delete": "Supprimer",
+    "Skip": "Ignorer",
+    "Select": "Sélectionner",
+    "Set": "Paramétrer",
+    "GoBack": "Revenir en arrière",
+    "Save": "Enregistrer",
+    "ACCEPT": "ACCEPTER",
+    "CANCEL": "ANNULER",
+    "SAVECONTACT": "Enregistrer le contact",
+    "VIEWCONTACT": "Voir le contact"
+  },
+  "ALERT": {
+    "Ok": "OK",
+    "Cancel": "Annuler",
+    "Done": "Terminé",
+    "Yes": "Oui",
+    "No": "Non",
+    "Add": "Ajouter",
+    "Save": "Enregistrer",
+    "Leave": "Quitter",
+    "Delete": "Supprimer",
+    "NoMessage": {
+      "title": "Aucun message",
+      "subTitle": "Veuillez saisir un message à traduire !"
+    },
+    "longPress": {
+      "title": "Supprimer le message",
+      "subTitle": "Êtes-vous sûr ?",
+      "label": "Supprimer pour tous les utilisateurs"
+    },
+    "NewAddress": {
+      "title": "Nouveau carnet d’adresses détecté !",
+      "message": "Êtes-vous sûr de vouloir mettre à jour ?"
+    },
+    "ImportAddress": {
+      "title": "Êtes-vous sûr de vouloir importer le carnet d’adresses ?",
+      "message": "MPC nécessite l’accès à votre carnet d’adresses pour ajouter des amis"
+    },
+    "AddMember": {
+      "title": "Ajouter des membres",
+      "message1": "Êtes-vous sûr de vouloir vous ajouter",
+      "message2": "À ce groupe ?"
+    },
+    "CountryCodePage": {
+      "message": "Veuillez sélectionner un code pays"
+    },
+    "ChangeGroupName": {
+      "title": "Changer le nom du groupe",
+      "message": "Veuillez saisir un nouveau nom de groupe.",
+      "placeholder": "Nom du groupe"
+    },
+    "SetGroupPhoto": {
+      "title": "Définir la photo de groupe",
+      "message": "Voulez-vous prendre une photo ou choisir parmi votre galerie de photos ?",
+      "ChooseGallery": "Choisir parmi la galerie",
+      "TakePhoto": "Prendre une photo"
+    },
+    "ChangeDescription": {
+      "title": "Changer la description du groupe",
+      "message": "Veuillez saisir une nouvelle description de groupe.",
+      "placeholder": "Description du groupe"
+    },
+    "leaveGroup": {
+      "title": "Confirmer votre départ",
+      "message": "Êtes-vous sûr de vouloir quitter ce groupe ?"
+    },
+    "deleteGroup": {
+      "title": "Supprimer le groupe",
+      "message": "Êtes-vous sûr de vouloir supprimer ce groupe ?",
+      "noMessage": "Vous ne pouvez pas supprimer ce groupe, car vous n'avez pas créé ce groupe."
+    },
+    "acceptFriendRequest": {
+      "title": "Confirmer la demande d’ami.",
+      "message1": "Voulez-vous accepter",
+      "message2": "En tant qu’ami ?",
+      "RejectRequest": "Rejeter la demande",
+      "AcceptRequest": "Accepter la demande"
+    },
+    "rejectFriendRequest": {
+      "title": "Rejeter la demande d’ami.",
+      "message1": "Voulez-vous rejeter",
+      "message2": "En tant qu’ami ?",
+      "RejectRequest": "Rejeter la demande"
+    },
+    "cancelFriendRequest": {
+      "title": "Demande d’ami en attente.",
+      "message": "Voulez-vous supprimer votre demande d’ami à"
+    },
+    "sendFriendRequest": {
+      "title": "Envoyer une demande d’ami.",
+      "message": "Voulez-vous envoyer une demande d’ami à",
+      "Send": "Envoyer"
+    },
+    "ChangeEmail": {
+      "title": "Changer l’adresse email",
+      "message": "Veuillez saisir une nouvelle adresse email",
+      "placeholder": "Votre adresse email"
+    },
+    "Logout": {
+      "title": "Se déconnecter",
+      "message": "Êtes-vous sûr de vouloir vous déconnecter ?",
+      "Logout": "Se déconnecter"
+    },
+    "SecureReply": {
+      "title": "Message de réponse sécurisé",
+      "subTitle": "Envoyé avec succès"
+    },
+    "ChangeProfileName": {
+      "title": "Changer le nom de profil",
+      "message": "Veuillez saisir un nouveau nom de profil.",
+      "placeholder": "Votre nom"
+    },
+    "SetProfilePhoto": {
+      "title": "Définir la photo de profil",
+      "message": "Voulez-vous prendre une photo ou choisir parmi votre galerie de photos ?",
+      "Gallery": "Choisir parmi la galerie",
+      "Photo": "Prendre une photo"
+    },
+    "ChangeUsername": {
+      "title": "Changer le nom d’utilisateur",
+      "message": "Veuillez saisir un nouveau nom d’utilisateur",
+      "placeholder": "Votre nom d’utilisateur"
+    },
+    "UserDescription": {
+      "title": "Changer la description",
+      "message": "Veuillez saisir une nouvelle description.",
+      "placeholder": "Votre description"
+    },
+    "SetEmail": {
+      "title": "Changer l’adresse email",
+      "message": "Veuillez saisir une nouvelle adresse email",
+      "placeholder": "Votre adresse email"
+    },
+    "SetPassword": {
+      "title": "Changer le mot de passe",
+      "message": "Veuillez saisir un nouveau mot de passe.",
+      "currentPassword": "Mot de passe actuel",
+      "password": "Nouveau mot de passe",
+      "confirmPassword": "Confirmer le mot de passe"
+    },
+    "MessageDelete" : {
+      "title": "Supprimer le message",
+      "message": "Êtes-vous sûr de vouloir supprimer le dernier message?"
+    },
+    "DeleteChat" : {
+      "title": "Supprimer le chat",
+      "message": "Etes-vous sûr de supprimer l'historique de chat?"
+    },
+    "HardwarePermission": {
+      "title": "Autorisation du matériel",
+      "message": "Autorisation du matériel non disponible!"
+    }
+  },
+  "ACTIONSHEET": {
+    "Cancel": "Annuler",
+    "delete": "Supprimer",
+    "chooseAttachments": {
+      "title": "Choisir des pièces jointes",
+      "camera": "Caméra",
+      "video": "Vidéo",
+      "photoLibrary": "Bibliothèque de photos",
+      "location": "Emplacement",
+      "contact": "Contact",
+      "document": "Document"
+    },
+    "message": {
+      "title": "Message",
+      "originalMessage": "Message original",
+      "translation": "Traduction",
+      "timedDelete": "Suppression programmée"
+    },
+    "callMenu": {
+      "title": "Appel de groupe",
+      "VoiceCall": "Appel vocal",
+      "VideoCall": "Appel vidéo"
+    }
+  },
+  "LanguageName": {
+    "en": "Anglais",
+    "ar": "Arabe",
+    "bn": "Bengali",
+    "my": "Birman",
+    "zh-CN": "Chinois (Cantonais)",
+    "zh-TW": "Chinois (Mandarin)",
+    "fil": "Philippin",
+    "fr": "Français",
+    "de": "Allemand",
+    "gu": "Gujarati",
+    "hi": "Hindi",
+    "it": "Italien",
+    "ja": "Japonais",
+    "jw": "Javanais",
+    "kn": "Kannada",
+    "km": "Khmer",
+    "ko": "Coréen",
+    "ms": "Malais",
+    "ml": "Malayalam",
+    "mr": "Marathi",
+    "fa": "Perse",
+    "pl": "Polonais",
+    "pt": "Portugais",
+    "pa": "Punjabi",
+    "ru": "Russe",
+    "es": "Espagnol",
+    "ta": "Tamil",
+    "te": "Telugu",
+    "th": "Thaï",
+    "tr": "Turque",
+    "uk": "Ukrainien",
+    "ur": "Urdu",
+    "vi": "Vietnamien"
+  },
+  "AlertList": {
+    "okButton": "OK",    
+    "accountExistsWithDifferentCredential": {
+      "title": "Le compte existe !",
+      "subTitle": "Un compte avec le même identifiant existe déjà."
+    },
+    "invalidCredential": {
+      "title": "Identifiant invalide !",
+      "subTitle": "Une erreur s’est produite lors de la connexion avec cet identifiant."
+    },
+    "operationNotAllowed": {
+      "title": "Échec de la connexion !",
+      "subTitle": "Se connecter avec ce fournisseur n’est pas autorisé !Veuillez contacter l’assistance."
+    },
+    "userDisabled": {
+      "title": "Compte désactivé !",
+      "subTitle": "Désolé !Mais ce compte a été suspendu !Veuillez contacter l’assistance."
+    },
+    "userNotFound": {
+      "title": "Compte introuvable !",
+      "subTitle": "Désolé, mais un compte avec cet identifiant est introuvable."
+    },
+    "wrongPassword": {
+      "title": "Mot de passe incorrect !",
+      "subTitle": "Désolé, mais le mot de passe que vous avez saisi est incorrect."
+    },
+    "invalidEmail": {
+      "title": "Email invalide !",
+      "subTitle": "Désolé, mais vous avez saisi une adresse email invalide."
+    },
+    "emailAlreadyInUse": {
+      "title": "Email non disponible !",
+      "subTitle": "Désolé, mais cet email est déjà utilisé."
+    },
+    "weakPassword": {
+      "title": "Mot de passe faible !",
+      "subTitle": "Désolé, mais vous avez saisi un mot de passe faible."
+    },
+    "requiresRecentLogin": {
+      "title": "Identifiant expiré !",
+      "subTitle": "Désolé, mais cet identifiant a expiré !Veuillez vous reconnecter."
+    },
+    "userMismatch": {
+      "title": "Non-concordance de l’utilisateur !",
+      "subTitle": "Désolé, mais cet identifiant est attribué à un autre utilisateur !"
+    },
+    "providerAlreadyLinked": {
+      "title": "Déjà lié !",
+      "subTitle": "Désolé, mais votre compte est déjà lié à cet identifiant."
+    },
+    "credentialAlreadyInUse": {
+      "title": "Identifiant non disponible !",
+      "subTitle": "Désolé, mais cet identifiant est déjà utilisé par un autre utilisateur !"
+    },
+    "changeName": {
+      "title": "Échec du changement de nom !",
+      "subTitle": "Désolé, mais nous avons rencontré une erreur lors du changement de votre nom."
+    },
+    "changeEmail": {
+      "title": "Échec du changement d’email !",
+      "subTitle": "Désolé, mais nous avons rencontré une erreur lors du changement de votre adresse email."
+    },
+    "changePhoto": {
+      "title": "Échec du changement de photo !",
+      "subTitle": "Désolé, mais nous avons rencontré une erreur lors du changement de votre photo."
+    },
+    "passwordsDoNotMatch": {
+      "title": "Échec du changement de mot de passe !",
+      "subTitle": "Désolé, mais les mots de passe que vous avez saisis ne correspondent pas."
+    },
+    "updateProfile": {
+      "title": "Échec de la mise à jour du profil",
+      "subTitle": "Désolé, mais nous avons rencontré une erreur lors de la mise à jour de votre profil."
+    },
+    "usernameExists": {
+      "title": "Le nom d’utilisateur existe déjà !",
+      "subTitle": "Désolé, mais cet identifiant est déjà utilisé par un autre utilisateur !"
+    },
+    "imageUpload": {
+      "title": "Échec du téléchargement de l’image !",
+      "subTitle": "Désolé, mais nous avons rencontré une erreur lors du téléchargement de l’image sélectionnée."
+    },
+    "groupUpdate": {
+      "title": "Échec de la mise à jour du groupe",
+      "subTitle": "Désolé, mais nous avons rencontré une erreur lors de la mise à jour de ce groupe."
+    },
+    "groupLeave": {
+      "title": "Échec de départ du groupe !",
+      "subTitle": "Désolé, mais nous avons rencontré une erreur lors du départ de ce groupe."
+    },
+    "groupDelete": {
+      "title": "Échec de la suppression du groupe !",
+      "subTitle": "Désolé, mais nous avons rencontré une erreur lors de la suppression de ce groupe."
+    },
+    "invalidEmailMessage": {
+      "title": "Alerte !",
+      "subTitle": "Veuillez saisir une adresse email valide."
+    },
+    "passwordResetSent": {
+      "title": "Réinitialisation du mot de passe envoyé !",
+      "subTitle": "Un email de réinitialisation du mot de passe a été envoyé à :"
+    },
+    "profileUpdated": {
+      "title": "Profil mis à jour !",
+      "subTitle": "Votre profil a été mis à jour avec succès !"
+    },
+    "emailVerified": {
+      "title": "Email confirmé !",
+      "subTitle": "Félicitations !Votre email a été confirmé !"
+    },
+    "emailVerificationSent": {
+      "title": "Confirmation d’email envoyée !",
+      "subTitle": "Une confirmation d’email a été envoyée à :"
+    },
+    "accountDeleted": {
+      "title": "Compte supprimé !",
+      "subTitle": "Votre compte a été supprimé avec succès."
+    },
+    "passwordChanged": {
+      "title": "Mot de passe modifié !",
+      "subTitle": "Votre compte a été modifié avec succès."
+    },
+    "friendRequestSent": {
+      "title": "Demande d’ami envoyée !",
+      "subTitle": "Votre demande d’ami a été envoyée avec succès !"
+    },
+    "friendRequestRemoved": {
+      "title": "Demande d’ami supprimée !",
+      "subTitle": "Votre demande d’ami a été supprimée avec succès."
+    },
+    "groupUpdated": {
+      "title": "Groupe mis à jour !",
+      "subTitle": "Ce groupe a été mis à jour avec succès !"
+    },
+    "groupLeft": {
+      "title": "Quitter le groupe",
+      "subTitle": "Vous avez quitté ce groupe avec succès."
+    },
+    "noMatchPassword": {
+      "title": "Mise en garde",
+      "subTitle": "Les mots de passe ne correspondent pas"
+    },
+    "fileBigSize": {
+      "title": "Échec du téléchargement du document !",
+      "subTitle": "Désolé, la taille du document sélectionné est supérieure à notre taille limite (100 mb), veuillez sélectionner un fichier plus petit, merci !"
+    },
+    "nameLength": { 
+      "title": "Nom trop court!", 
+      "subTitle": "Désolé, mais votre nom doit comporter au moins 4 caractères." 
+    },
+    "namePattern": { 
+      "title": "Nom invalide!", 
+      "subTitle": "Désolé, mais le nom que vous avez saisi contient des caractères spéciaux." 
+    },
+    "emailPattern": { 
+      "title": "Adresse email invalide!", 
+      "subTitle": "Désolé, mais l'email que vous avez saisi est invalide."
+    },
+    "passwordLength": { 
+      "title": "Mot de passe trop court!", 
+      "subTitle": "Désolé, mais votre mot de passe doit comporter au moins 4 caractères."
+    },
+    "passwordPattern": { 
+      "title": "Mot de passe invalide!", 
+      "subTitle": "Désolé, mais le mot de passe que vous avez saisi contient des caractères spéciaux."
+    }
+  },
+  "ServerLocation": {
+    "AS": "Asie",
+    "AU": "Australie",
+    "CA": "Canada",
+    "GB": "Royaume-Uni",
+    "DE": "Allemagne",
+    "JP": "Japon",
+    "CH": "Suisse",
+    "US": "États-Unis"
+  },
+  "Time": {
+    "Now": "À présent",
+    "Yesterday": "Hier"
+  },
+  "ContactSheet" : {
+    "Cancel" : "Annuler",
+    "New": "Nouveau",
+    "Existing": "Existant"
+  },
+  "PopUp": {
+    "Month": {
+      "June": "A venir prochainement en juin 2018",
+      "September": "A venir prochainement en septembre 2018"
+    },
+    "CallType": {
+      "GroupCall": "Appel de groupe",
+      "Voice Call": "Appel vocal",
+      "VideoCall": "Appel vidéo"
+    },
+    "Button": {
+      "Cancel": "Cancel"
+    },
+    "GroupConferencing": {
+      "title": "Conférence de groupe",
+      "message": "MPC vous permettra d'héberger et de rejoindre des groupes vidéos et des chats avec des collègues, des amis et des membres de la famille grâce à nos fonctionnalités sécurisées, fiables et de qualité d'appels vocaux et vidéos."
+    },
+    "Personalization": {
+      "title": "Personnalisation",
+      "message": "Vous aurez la possibilité de vous approprier MPC grâce à une ensemble d'options de personnalisation."
+    },
+    "Qualification": {
+      "title": "Qualification",
+      "message": "Vous pourrez suivre et visualiser des statistiques pour les documents et les emails envoyés via MPC."
+    },
+    "Newsletters": {
+      "title": "Bulletions d'information",
+      "message": "Vous aurez la possibilité d'envoyer des lettres d'informations, des bulletins et des demandes de votes à des particuliers ou des votes en utilisant des modèles MPC efficaces et intuitifs."
+    },
+    "Invoices": {
+      "title": "Factures",
+      "message": "Vous aurez la possibilité d'envoyer des factures et des demandes de paiements à des particuliers ou à des groupes en utilisant des modèles MPC efficaces et intuitifs. Vous saurez même exactement quand ils ouvrent et lisent leurs messages."
+    },
+    "VoiceVideoChat": {
+      "title": "Chat vocal et vidéo",
+      "message": "MPC vous maintiendra en connexion avec des appels vidéos de qualité de locuteurs natifs. Vous aurez la possibilité d'effectuer des appels vidéos ou vocaux à n'importe quel autre contact MPC à partir de n'importe quelle conversation."
+    },
+    "ClearAllChats": {
+      "title": "Effacer tous les Chats",
+      "message": "Vous aurez la possibilité d'effacer tous les messages MPC et toute l'historique de chat instantanément sur votre appareil d'un simple clic sur ce bouton."
+    }
+  }
+}

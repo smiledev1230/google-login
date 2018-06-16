@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/raw/consumer_onesignal_keep.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.onesignal/OneSignal/3.6.3/res/raw/consumer_onesignal_keep.xml"
+    }
+]

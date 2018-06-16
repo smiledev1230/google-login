@@ -1,0 +1,739 @@
+{
+  "APP" : "MPC",
+  "PAGE_TITLE" : {
+    "HomePage" : "Profile",
+    "MessagesPage" : "Messages",
+    "NewMessagePage" : "New Message",
+    "GroupsPage" : "Groups",
+    "NewGroupPage" : "New Group",
+    "NewCallPage" : "New Call",
+    "FriendsPage" : "Friends",
+    "AccountDeletePage" : "Delete Account",
+    "AddMembersPage": "Add Members",
+    "AddMembersCustomPage" : "Add Custom Members",
+    "CountryCodePage" : "Country Code",
+    "GroupInfoPage" : "Group Info",
+    "MessageDestructPage": "Message Destruct",
+    "RequestsPage": "Friend Requests",
+    "SearchPeoplePage": "Search People",
+    "SelectLangPage": "Choose Language",
+    "ChangeEmailPage": "Change email",
+    "ChangePasswordPage": "Change Password",
+    "InvitePage": "App Invite",
+    "LanguagePage": "Translate Message",
+    "FeaturesPage": "Features",
+    "ForwardMessagePage": "Forward Message",
+    "ChatsPage": "Chats",
+    "CallsPage": "Calls",
+    "LoginPage": "MY PRIVATE CIRCLE"
+  },
+  "HomePage" : {
+    "MyAccount": "My Account",
+    "FullName": "Full Name",
+    "Username": "Username",
+    "Status": "Status",
+    "More": "More",
+    "Settings": "Settings",
+    "ChangeEmail": "Change email address",
+    "ChangePassword": "Change password",
+    "ServerLocation": "Server Location",
+    "UnderDevelopment": "Under Development",
+    "MenuLanguage": "Menu Language",
+    "TranslationLanguage": "Translation Language",
+    "DeleteAccount": "Delete Account",
+    "AppVersion": "App Version",
+    "Logout": "Logout",
+    "ClearAllChats": "Master Oh Shit",
+    "ClearAllChats2": "Delete all Chats"
+  },
+  "MESSAGES" : {
+    "NoConversation" : "No new conversation yet.",
+    "StartChat" : "Start Chat"
+  },
+  "NewMessage" : {
+    "NoConversation" : "Uh-oh! You have not added any friends yet."
+  },
+  "TabsPage": {
+    "Chats": "Chats",
+    "Call": "Call",
+    "Friends": "Friends",
+    "Features": "Features",
+    "Profile": "Profile"
+  },
+  "GroupsPage" : {
+    "NoGroup" : "No new groups yet.",
+    "CreateNew": "Create New"
+  },
+  "NewGroupPage": {
+    "GroupInfo": "Group Info",
+    "NameofGroup": "Name of Group",
+    "Description": "Description",
+    "Describe": "Describe this Group",
+    "GroupMembers": "Participants",
+    "AddMembers": "Add participants",
+    "NoFriends": "You have no friends right now to start a group conversation."
+  },
+  "FriendsPage": {
+    "NoFriend": "You don't have new friend yet"
+  },
+  "ContactsPage": {
+    "NoContacts": "You don't have new Contacts yet",
+    "ImportAddressBook": "Import Address Book"
+  },
+  "AccountDeletePage": {
+    "DeleteTitle": "Are you sure you want to delete your account? That cannot be undone",
+    "CheckLabel": "Delete all messages"
+  },
+  "AddMembersPage": {
+    "OhMessage" : "Uh-oh! Sorry but your friends are already a member of this group."
+  },
+  "AddMembersCustomPage": {
+    "SecureUserInfo": "Secure User Info",
+    "UserName": "User Name",
+    "Email": "Email",
+    "PhoneNumber": "Phone Number"
+  },
+  "CountryCodePage": {
+    "Phone": "Phone",
+    "SearchCode": "Search for Country Code"
+  },
+  "GroupPage": {
+    "StickyText": "My Private Circle - This is a sticky note which stays at the top",
+    "StickyTime": "21 hours ago",
+    "YouLeft": "You Left",
+    "NoSend": "You can't send messages to this group",
+    "NoParticipant": "because you're no longer a participant."
+  },
+  "GroupInfoPage": {
+    "Started": "Started",
+    "About": "About",
+    "GroupMembers": "Participant",
+    "AddMembers": "Add participant",
+    "SECURE": "SECURE",
+    "AddEmailPhone": "Add Email/PhoneNumber",
+    "More": "More",
+    "ExitGroup": "Exit Group",
+    "DeleteGroup": "Delete Group"
+  },
+  "MessageDestructPage": {
+    "TypeTime": "Type time...",
+    "Second": "Second",
+    "Minute": "Minute",
+    "Hour": "Hour",
+    "Day": "Day",
+    "Week": "Week",
+    "Month": "Month",
+    "Message": "Select the time to delete messages"
+  },
+  "RequestsPage": {
+    "NoRequests": "No New Requests",
+    "SentRequest": "Friend request sent.",
+    "HasRequest": "has sent you a friend request.",
+    "RequestSent": "friend request sent"
+  },
+  "SearchPeoplePage": {
+    "NoFind": "We can't find new users right now",
+    "SearchNow": "Please search to find users",
+    "NoSearchFind": "No contacts found by that search criteria"
+  },
+  "SelectLangPage": {
+    "SubTitle": "Your message will be translated",
+    "Translate": "Translate",
+    "Title": "Choose language to translate message"
+  },
+  "UserInfoPage": {
+    "SentRequest": "Sent you a friend request.",
+    "FriendSent": "Friend request sent.",
+    "NotFriends": "You are not yet friends.",
+    "AlreadyFriends": "You are already friends.",
+    "CancelRequest": "Cancel Friend Request",
+    "SendRequest": "Send Friend Request",
+    "SendMessage": "Send Message"
+  },
+  "VerificationPage": {
+    "VerifyAccount": "Verify your account",
+    "SubTitle1": "Please verify",
+    "SubTitle2": "to continue",
+    "Resend": "Resend",
+    "UpdateEmail": "Update Email",
+    "Logout": "Logout"
+  },
+  "ChangeEmailPage": {
+    "YourEmailAdress": "Your email address",
+    "EnterNewEmail": "Please enter a new email address"
+  },
+  "ChangePasswordPage": {
+    "CurrentPassword": "Please enter a current password",
+    "NewPassword": "Please enter a new password"
+  },
+  "ChatsPage": {
+    "PERSONAL": "PERSONAL",
+    "GROUP": "GROUP"
+  },
+  "FriendsTabPage": {
+    "FRIENDS": "FRIENDS",
+    "CONTACTS": "CONTACTS",
+    "REQUESTS": "REQUESTS"
+  },
+  "CallsTabPage": {
+    "ALL": "ALL",
+    "GROUP": "GROUP"
+  },
+  "CallsPage": {
+    "NoCalls": "No new call yet.",
+    "StartCall": "Start Call"
+  },
+  "InvitePage": {
+    "FirstName": "First Name",
+    "LastName": "Last Name",
+    "Email": "Email",
+    "Platform": "Platform",
+    "IOS": "IOS",
+    "Android": "Android",
+    "SendInvite": "Send Invite",
+    "InvitedUsers": "Invited Users",
+    "valideAlert": {
+      "ExistEmail": "Doesn't exist Email",
+      "FirstName": "Please input First Name",
+      "LastName": "Please input Last Name",
+      "ValidEmail": "Please input valid Email",
+      "Platform": "Please select platform",
+      "Error": "Error :"
+    }
+  },
+  "FriendProfilePage": {
+    "Chats": "Chats",
+    "Call": "Call",
+    "Video": "Video",
+    "Email": "Email",
+    "SMS": "SMS",
+    "CallLog": "Call Log",
+    "Outgoing": "Outgoing",
+    "Cancelled": "Cancelled",
+    "Incoming": "Incoming"
+  },
+  "FeaturesPage": {
+    "Personalization": "Personalization",
+    "Qualification": "Qualification",
+    "Newsletters": "Newsletters",
+    "Invoices": "Invoices",
+    "AppInvite": "App invite"
+  },
+  "LoginPage": {
+    "LOGIN": "LOG IN",
+    "SIGNUP": "SIGN UP",
+    "Log_in": "Log in",
+    "ForgotPassword": "Forgot Password?",
+    "ConnectWith": "Or connect with",
+    "Sign_up": "Sign up"
+  },
+  "ResetPasswordPage": {
+    "SubTitle1": "Enter the email you signed up with.",
+    "SubTitle2": "We will send you an email to reset it",
+    "BackButton": "Back to Login"
+  },
+  "ContactProfilePage": {
+    "Phone": "Phone",
+    "Email": "Email",
+    "Organization": "Organization",
+    "Address": "Address",
+    "WebAddress": "Web Address",
+    "Birthday": "Birthday",
+    "Notes": "Notes",
+    "MessengerAccount": "Messenger account",
+    "Nickname": "Nickname",
+    "Relationship": "Relationship"
+  },
+  "ChatActionPage": {
+    "Copy": "Copy",
+    "Forward": "Forward",
+    "Translate": "Translate",
+    "Delete": "Delete",
+    "timedDelete": "Timed Delete"
+  },
+  "CallingPage": {
+    "Mute": "Mute",
+    "Chats": "Chats",
+    "Dynamic": "Dynamic",
+    "VideoCall": "Video call",
+    "Keyboard": "Keyboard",
+    "Contacts": "Contacts"
+  },
+  "PopupAcceptPage": {
+    "IncomingCall": "Incoming call"
+  },
+  "COMMON" : {
+    "searchFriend" : "Search for friend or username",
+    "PreviousMessage" : "Load previous messages",
+    "TranslateTo" : "Translate To:",
+    "Contact": "CONTACT",
+    "SearchPeople": "Search People",
+    "LoadingMore": "Loading more...",
+    "Avatar": "Avatar",
+    "FRIENDS": "FRIENDS",
+    "CONTACTS": "CONTACTS",
+    "REQUESTS": "REQUESTS",
+    "AllUserMessage": "The message has been deleted",
+    "OwnUserMessage": "Remove the message from the users view",
+    "LanguageButton": "MPC offered in"
+  },
+  "PLACEHOLDER" : {
+    "TypeMessage" : "Type a message",
+    "SearchGroup": "Search for group",
+    "NameofGroup": "Name of Group",
+    "InputPassword": "Input Password",
+    "NewEmailAddress": "New email address",
+    "ReEnterEmail":"Re-enter email address",
+    "Password": "Password",
+    "NewPassword": "New password",
+    "ConfirmPassword": "Confirm new password",
+    "Searchlanguage": "Search language",
+    "Email": "Email",
+    "FullName": "Full name",
+    "RePassword": "Re-password"
+  },
+  "BUTTON" : {
+    "Done" : "Done",
+    "Back" : "Back",
+    "Cancel": "Cancel",
+    "Delete": "Delete",
+    "Skip": "Skip",
+    "Select": "Select",
+    "Set": "Set",
+    "GoBack": "Go Back",
+    "Save": "Save",
+    "ACCEPT": "ACCEPT",
+    "CANCEL": "CANCEL",
+    "SAVECONTACT": "Save Contact",
+    "VIEWCONTACT": "View Contact"
+  },
+  "ALERT" : {
+    "Ok" : "Ok",
+    "Cancel": "Cancel",
+    "Done": "Done",
+    "Yes": "Yes",
+    "No": "No",
+    "Add": "Add",
+    "Save": "Save",
+    "Leave": "Leave",
+    "Delete": "Delete",
+    "NoMessage" : {
+      "title": "No Message",
+      "subTitle": "Please enter a message to be translated!"
+    },
+    "longPress" : {
+      "title": "Delete Message",
+      "subTitle": "Are you sure?",        
+      "label": "Delete for all users"
+    },
+    "NewAddress": {
+      "title": "Detected new address book!",
+      "message" : "Are you sure to update?"
+    },
+    "ImportAddress": {
+      "title": "Are you sure to import address book?",
+      "message": "MPC requires access to your address book to add friends"
+    },
+    "AddMember" : {
+      "title": "Add Members",
+      "message1": "Are you sure you want to add",
+      "message2": "to the group?"
+    },
+    "CountryCodePage": {
+      "message": "Please select country code"
+    },
+    "ChangeGroupName": {
+      "title": "Change Group Name",
+      "message": "Please enter a new group name.",
+      "placeholder": "Group Name"
+    },
+    "SetGroupPhoto": {
+      "title": "Set Group Photo",
+      "message": "Do you want to take a photo or choose from your photo gallery?",
+      "ChooseGallery": "Choose from Gallery",
+      "TakePhoto": "Take Photo"
+    },
+    "ChangeDescription": {
+      "title": "Change Group Description",
+      "message": "Please enter a new group description.",
+      "placeholder": "Group Description"
+    },
+    "leaveGroup": {
+      "title": "Confirm Leave",
+      "message": "Are you sure you want to leave this group?"
+    },
+    "deleteGroup": {
+      "title": "Delete Group",
+      "message": "Are you sure delete group?",
+      "noMessage": "You can't delete this group, because you didn't create this group."
+    },
+    "acceptFriendRequest": {
+      "title": "Confirm Friend Request",
+      "message1": "Do you want to accept",
+      "message2": "as your friend?",
+      "RejectRequest": "Reject Request",
+      "AcceptRequest": "Accept Request"
+    },
+    "rejectFriendRequest": {
+      "title": "Reject Friend Request",
+      "message1": "Do you want to reject",
+      "message2": "as your friend?",
+      "RejectRequest": "Reject Request"
+    },
+    "cancelFriendRequest": {
+      "title": "Friend Request Pending",
+      "message": "Do you want to delete your friend request to"      
+    },
+    "sendFriendRequest": {
+      "title": "Send Friend Request",
+      "message": "Do you want to send friend request to",
+      "Send": "Send"
+    },
+    "ChangeEmail": {
+      "title": "Change Email Address",
+      "message": "Please enter a new email address.",
+      "placeholder": "Your Email Address"
+    },
+    "Logout": {
+      "title": "Logout",
+      "message": "Are you sure you want to logout?",
+      "Logout": "Logout"
+    },
+    "SecureReply": {
+      "title": "Secure Reply Message",
+      "subTitle": "Successfully Sent."
+    },
+    "ChangeProfileName": {
+      "title": "Change Profile Name",
+      "message": "Please enter a new profile name.",
+      "placeholder": "Your Name"
+    },
+    "SetProfilePhoto": {
+      "title": "Set Profile Photo",
+      "message": "Do you want to take a photo or choose from your photo gallery?",
+      "Gallery": "Choose from Gallery",
+      "Photo": "Take Photo"
+    },
+    "ChangeUsername": {
+      "title": "Change Username",
+      "message": "Please enter a new username.",
+      "placeholder": "Your Username"
+    },
+    "UserDescription": {
+      "title": "Change Description",
+      "message": "Please enter a new description.",
+      "placeholder": "Your Description"
+    },
+    "SetEmail": {
+      "title": "Change Email Address",
+      "message": "Please enter a new email address.",
+      "placeholder": "Your Email Address"
+    },
+    "SetPassword": {
+      "title": "Change Password",
+      "message": "Please enter a new password.",
+      "currentPassword": "Current Password",
+      "password": "New Password",
+      "confirmPassword": "Confirm Password"
+    },
+    "MessageDelete" : {
+      "title": "Delete Message",
+      "message": "Are you sure you want to delete last message?"
+    },
+    "DeleteChat" : {
+      "title": "Delete chat",
+      "message": "Are you sure delete chat history?"
+    },
+    "HardwarePermission": {
+      "title": "Hardware permission",
+      "message": "Hardware permission not available!"
+    }
+  },
+  "ACTIONSHEET" : {
+    "Cancel" : "Cancel",
+    "delete": "Delete",
+    "chooseAttachments" : {
+      "title" : "Choose attachments",
+      "camera" : "Camera",
+      "video" : "Video",
+      "photoLibrary" : "Photo Library",
+      "location" : "Location",
+      "contact" : "Contact",
+      "document": "Document"
+    },
+    "message" : {
+      "title": "Message",
+      "originalMessage": "Original Message",
+      "translation": "Translation",
+      "timedDelete": "Timed Delete"
+    },
+    "callMenu": {
+      "title": "Group Call",
+      "VoiceCall": "Voice Call",
+      "VideoCall": "Video Call"
+    }
+  },
+  "LanguageName": {
+    "en": "English",
+    "ar": "Arabic",
+    "bn": "Bengali",
+    "my": "Burmese",
+    "zh-CN": "Chinese (Cantonese)",
+    "zh-TW": "Chinese (Mandarin)",
+    "fil": "Filipino",
+    "fr": "French",
+    "de": "Germany",
+    "gu": "Gujarati",
+    "hi": "Hindi",
+    "it": "Italian",
+    "ja": "Japanese",
+    "jw": "Javanese",
+    "kn": "Kannada",
+    "km": "Khmer",
+    "ko": "Korean",
+    "ms": "Malay",
+    "ml": "Malayalam",
+    "mr": "Marathi",
+    "fa": "Persian",
+    "pl": "Polish",
+    "pt": "Portuguese",
+    "pa": "Punjabi",
+    "ru": "Russian",
+    "es": "Spanish",
+    "ta": "Tamil",
+    "te": "Telugu",
+    "th": "Thai",
+    "tr": "Turkish",
+    "uk": "Ukrainian",
+    "ur": "Urdu",
+    "vi": "Vietnamese"
+  },
+  "AlertList": {
+    "okButton": "OK",
+    "accountExistsWithDifferentCredential": {
+      "title": "Account Exists!",
+      "subTitle": "An account with the same credential already exists."
+    },
+    "invalidCredential": {
+      "title": "Invalid Credential!",
+      "subTitle": "An error occured logging in with this credential."
+    },
+    "operationNotAllowed": {
+      "title": "Login Failed!",
+      "subTitle": "Logging in with this provider is not allowed! Please contact support."
+    },
+    "userDisabled": {
+      "title": "Account Disabled!",
+      "subTitle": "Sorry! But this account has been suspended! Please contact support."
+    },
+    "userNotFound": {
+      "title": "Account Not Found!",
+      "subTitle": "Sorry, but an account with this credential could not be found."
+    },
+    "wrongPassword": {
+      "title": "Incorrect Password!",
+      "subTitle": "Sorry, but the password you have entered is incorrect."
+    },
+    "invalidEmail": {
+      "title": "Invalid Email!",
+      "subTitle": "Sorry, but you have entered an invalid email address."
+    },
+    "emailAlreadyInUse": {
+      "title": "Email Not Available!",
+      "subTitle": "Sorry, but this email is already in use."
+    },
+    "weakPassword": {
+      "title": "Weak Password!",
+      "subTitle": "Sorry, but you have entered a weak password."
+    },
+    "requiresRecentLogin": {
+      "title": "Credential Expired!",
+      "subTitle": "Sorry, but this credential has expired! Please login again."
+    },
+    "userMismatch": {
+      "title": "User Mismatch!",
+      "subTitle": "Sorry, but this credential is for another user!"
+    },
+    "providerAlreadyLinked": {
+      "title": "Already Linked!",
+      "subTitle": "Sorry, but your account is already linked to this credential."
+    },
+    "credentialAlreadyInUse": {
+      "title": "Credential Not Available!",
+      "subTitle": "Sorry, but this credential is already used by another user."
+    },
+    "changeName": {
+      "title": "Change Name Failed!",
+      "subTitle": "Sorry, but we've encountered an error changing your name."
+    },
+    "changeEmail": {
+      "title": "Change Email Failed!",
+      "subTitle": "Sorry, but we've encountered an error changing your email address."
+    },
+    "changePhoto": {
+      "title": "Change Photo Failed!",
+      "subTitle": "Sorry, but we've encountered an error changing your photo."
+    },
+    "passwordsDoNotMatch": {
+      "title": "Change Password Failed!",
+      "subTitle": "Sorry, but the passwords you entered do not match."
+    },
+    "updateProfile": {
+      "title": "Update Profile Failed",
+      "subTitle": "Sorry, but we've encountered an error updating your profile."
+    },
+    "usernameExists": {
+      "title": "Username Already Exists!",
+      "subTitle": "Sorry, but this username is already taken by another user."
+    },
+    "imageUpload": {
+      "title": "Image Upload Failed!",
+      "subTitle": "Sorry but we've encountered an error uploading selected image."
+    },
+    "groupUpdate": {
+      "title": "Update Group Failed!",
+      "subTitle": "Sorry, but we've encountered an error updating this group."
+    },
+    "groupLeave": {
+      "title": "Leave Group Failed!",
+      "subTitle": "Sorry, but you've encountered an error leaving this group."
+    },
+    "groupDelete": {
+      "title": "Delete Group Failed!",
+      "subTitle": "Sorry, but we've encountered an error deleting this group."
+    },
+    "invalidEmailMessage": {
+      "title": "Alert!",
+      "subTitle": "Please enter a valid email."
+    },
+    "passwordResetSent": {
+      "title": "Password Reset Sent!",
+      "subTitle": "A password reset email has been sent to: "
+    },
+    "profileUpdated": {
+      "title": "Profile Updated!",
+      "subTitle": "Your profile has been successfully updated!"
+    },
+    "emailVerified": {
+      "title": "Email Confirmed!",
+      "subTitle": "Congratulations! Your email has been confirmed!"
+    },
+    "emailVerificationSent": {
+      "title": "Email Confirmation Sent!",
+      "subTitle": "An email confirmation has been sent to: "
+    },
+    "accountDeleted": {
+      "title": "Account Deleted!",
+      "subTitle":"Your account has been successfully deleted."
+    },
+    "passwordChanged": {
+      "title": "Password Changed!",
+      "subTitle": "Your password has been successfully changed."
+    },
+    "friendRequestSent": {
+      "title": "Friend Request Sent!",
+      "subTitle": "Your friend request has been successfully sent!"
+    },
+    "friendRequestRemoved": {
+      "title": "Friend Request Deleted!",
+      "subTitle": "Your friend request has been successfully deleted."
+    },
+    "groupUpdated": {
+      "title": "Group Updated!",
+      "subTitle": "This group has been successfully updated!"
+    },
+    "groupLeft": {
+      "title": "Leave Group",
+      "subTitle": "You have successfully left this group."
+    },
+    "noMatchPassword": {
+      "title": "Warning",
+      "subTitle": "Passwords do not match"
+    },
+    "fileBigSize": {
+      "title": "Document Upload Failed!",
+      "subTitle": "Sorry, the selected document is larger than our limit (100mb), please choose a smaller file, thanks!"
+    },
+    "nameLength": {
+      "title": "Name Too Short!",
+      "subTitle": "Sorry, but name must be more than 4 characters."
+    },
+    "namePattern": {
+      "title": "Invalid Name!",
+      "subTitle": "Sorry, but the name you entered contains special characters."
+    },
+    "emailPattern": {
+      "title": "Invalid Email Address!",
+      "subTitle": "Sorry, but the email you have entered is invalid."
+    },
+    "passwordLength": {
+      "title": "Password Too Short!",
+      "subTitle": "Sorry, but password must be more than 4 characters."
+    },
+    "passwordPattern": {
+      "title": "Invalid Password!",
+      "subTitle": "Sorry, but the password you have entered contains special characters."
+    }
+  },
+  "ServerLocation" : {
+    "AS" : "Asia",
+    "AU" : "Australia",
+    "CA" : "Canada",
+    "GB" : "England",
+    "DE" : "Germany",
+    "JP" : "Japan",
+    "CH" : "Switzerland",
+    "US" : "United States" 
+  },
+  "Time": {
+    "Now": "Now",
+    "Yesterday": "Yesterday"
+  },
+  "ContactSheet" : {
+    "Cancel" : "Cancel",
+    "New": "New",
+    "Existing": "Existing"
+  },
+  "PopUp": {
+    "Month": {
+      "June": "Coming soon June 2018",
+      "September": "Coming soon September 2018"
+    },
+    "CallType": {
+      "GroupCall": "Group Call",
+      "Voice Call": "Voice Call",
+      "VideoCall": "Video Call"
+    },
+    "Button": {
+      "Cancel": "Cancel"
+    },
+    "GroupConferencing": {
+      "title": "Group Conferencing",
+      "message": "MPC will let you host and join group video and chats with colleagues, friends and family through our secure, reliable, quality voice and video calling features."
+    },
+    "Personalization": {
+      "title": "Personalization",
+      "message": "You’ll be able to make MPC your own with a host of personalization options."
+    },
+    "Qualification": {
+      "title": "Qualification",
+      "message": "You’ll be able to track and visualize statistics for documents and emails sent within MPC."
+    },
+    "Newsletters": {
+      "title": "Newsletters",
+      "message": "You’ll be able to send newsletters, bulletins and vote requests to individuals or groups using powerful, intuitive MPC templates."
+    },
+    "Invoices": {
+      "title": "Invoices",
+      "message": "You’ll be able to send invoices and payment requests to individuals or groups using powerful, intuitive MPC templates. You’ll even know exactly when they were opened and read."
+    },
+    "VoiceVideoChat": {
+      "title": "Voice and Video Chat",
+      "message": "MPC will keep you connected with reliable, quality native voice and video calling. You’ll be able to make secure voice or video calls to any other MPC contact from any conversation."
+    },
+    "ClearAllChats": {
+      "title": "Clear all Chats",
+      "message": "You’ll be able to wipe all MPC messages and chat history instantly on your device with one click of this button."
+    }
+  }
+}

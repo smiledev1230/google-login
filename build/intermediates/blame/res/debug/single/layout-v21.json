@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

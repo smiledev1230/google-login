@@ -1,0 +1,1185 @@
+[
+    {
+        "outputFile": "/www/mpc/mpc_dev/platforms/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 118,
+                    "endOffset": 219
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 118,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 224,
+                    "endColumn": 107,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 107,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 332,
+                    "endColumn": 122,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 122,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 107,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 107,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 116,
+                    "endOffset": 675
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 116,
+                        "endOffset": 625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 680,
+                    "endColumn": 87,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 630,
+                        "endColumn": 87,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 105,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 105,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 120,
+                    "endOffset": 990
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 824,
+                        "endColumn": 120,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 995,
+                    "endColumn": 78,
+                    "endOffset": 1069
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 78,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1074,
+                    "endColumn": 77,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 77,
+                        "endOffset": 1097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 83,
+                    "endOffset": 1231
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1102,
+                        "endColumn": 83,
+                        "endOffset": 1181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1236,
+                    "endColumn": 108,
+                    "endOffset": 1340
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1186,
+                        "endColumn": 108,
+                        "endOffset": 1290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1345,
+                    "endColumn": 110,
+                    "endOffset": 1451
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1295,
+                        "endColumn": 110,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1456,
+                    "endColumn": 100,
+                    "endOffset": 1552
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1406,
+                        "endColumn": 100,
+                        "endOffset": 1502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1557,
+                    "endColumn": 109,
+                    "endOffset": 1662
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1507,
+                        "endColumn": 109,
+                        "endOffset": 1612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1667,
+                    "endColumn": 116,
+                    "endOffset": 1779
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1617,
+                        "endColumn": 116,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1784,
+                    "endColumn": 107,
+                    "endOffset": 1887
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 107,
+                        "endOffset": 1837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1892,
+                    "endColumn": 122,
+                    "endOffset": 2010
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1842,
+                        "endColumn": 122,
+                        "endOffset": 1960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2015,
+                    "endColumn": 101,
+                    "endOffset": 2112
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1965,
+                        "endColumn": 101,
+                        "endOffset": 2062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2117,
+                    "endColumn": 172,
+                    "endOffset": 2285
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 172,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2290,
+                    "endColumn": 143,
+                    "endOffset": 2429
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 143,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2434,
+                    "endColumn": 162,
+                    "endOffset": 2592
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 162,
+                        "endOffset": 530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2597,
+                    "endColumn": 86,
+                    "endOffset": 2679
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 535,
+                        "endColumn": 86,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2684,
+                    "endColumn": 86,
+                    "endOffset": 2766
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endColumn": 86,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2771,
+                    "endColumn": 79,
+                    "endOffset": 2846
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 79,
+                        "endOffset": 784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2851,
+                    "endColumn": 92,
+                    "endOffset": 2939
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 789,
+                        "endColumn": 92,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2944,
+                    "endColumn": 92,
+                    "endOffset": 3032
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 92,
+                        "endOffset": 970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3037,
+                    "endColumn": 120,
+                    "endOffset": 3153
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 975,
+                        "endColumn": 120,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3158,
+                    "endColumn": 109,
+                    "endOffset": 3263
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1096,
+                        "endColumn": 109,
+                        "endOffset": 1201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3268,
+                    "endColumn": 94,
+                    "endOffset": 3358
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1206,
+                        "endColumn": 94,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3363,
+                    "endColumn": 94,
+                    "endOffset": 3453
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1301,
+                        "endColumn": 94,
+                        "endOffset": 1391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3458,
+                    "endColumn": 105,
+                    "endOffset": 3559
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1396,
+                        "endColumn": 105,
+                        "endOffset": 1497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3564,
+                    "endColumn": 123,
+                    "endOffset": 3683
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1502,
+                        "endColumn": 123,
+                        "endOffset": 1621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3688,
+                    "endColumn": 82,
+                    "endOffset": 3766
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1626,
+                        "endColumn": 82,
+                        "endOffset": 1704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3771,
+                    "endColumn": 83,
+                    "endOffset": 3850
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1709,
+                        "endColumn": 83,
+                        "endOffset": 1788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3855,
+                    "endColumn": 192,
+                    "endOffset": 4043
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1793,
+                        "endColumn": 192,
+                        "endOffset": 1981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4048,
+                    "endColumn": 92,
+                    "endOffset": 4136
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1986,
+                        "endColumn": 92,
+                        "endOffset": 2074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4141,
+                    "endColumn": 101,
+                    "endOffset": 4238
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2079,
+                        "endColumn": 101,
+                        "endOffset": 2176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4243,
+                    "endColumn": 117,
+                    "endOffset": 4356
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2181,
+                        "endColumn": 117,
+                        "endOffset": 2294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4361,
+                    "endColumn": 113,
+                    "endOffset": 4470
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2299,
+                        "endColumn": 113,
+                        "endOffset": 2408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4475,
+                    "endColumn": 156,
+                    "endOffset": 4627
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2413,
+                        "endColumn": 156,
+                        "endOffset": 2565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4632,
+                    "endColumn": 108,
+                    "endOffset": 4736
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 104,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4741,
+                    "endColumn": 207,
+                    "endOffset": 4944
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 388,
+                        "endColumn": 207,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4949,
+                    "endColumn": 139,
+                    "endOffset": 5084
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 596,
+                        "endColumn": 135,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5089,
+                    "endColumn": 110,
+                    "endOffset": 5195
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 732,
+                        "endColumn": 106,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5200,
+                    "endColumn": 216,
+                    "endOffset": 5412
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 839,
+                        "endColumn": 216,
+                        "endOffset": 1055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5417,
+                    "endColumn": 137,
+                    "endOffset": 5550
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1056,
+                        "endColumn": 133,
+                        "endOffset": 1189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5555,
+                    "endColumn": 141,
+                    "endOffset": 5692
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1190,
+                        "endColumn": 137,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5697,
+                    "endColumn": 204,
+                    "endOffset": 5897
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 204,
+                        "endOffset": 489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5902,
+                    "endColumn": 237,
+                    "endOffset": 6135
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1328,
+                        "endColumn": 237,
+                        "endOffset": 1565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 6140,
+                    "endColumn": 108,
+                    "endOffset": 6244
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1566,
+                        "endColumn": 104,
+                        "endOffset": 1670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6249,
+                    "endColumn": 208,
+                    "endOffset": 6453
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1671,
+                        "endColumn": 208,
+                        "endOffset": 1879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6458,
+                    "endColumn": 139,
+                    "endOffset": 6593
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1880,
+                        "endColumn": 135,
+                        "endOffset": 2015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6598,
+                    "endColumn": 220,
+                    "endOffset": 6814
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 2016,
+                        "endColumn": 220,
+                        "endOffset": 2236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6819,
+                    "endColumn": 208,
+                    "endOffset": 7023
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2237,
+                        "endColumn": 204,
+                        "endOffset": 2441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 7028,
+                    "endColumn": 97,
+                    "endOffset": 7121
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2442,
+                        "endColumn": 93,
+                        "endOffset": 2535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 7126,
+                    "endColumn": 95,
+                    "endOffset": 7217
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2536,
+                        "endColumn": 91,
+                        "endOffset": 2627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 7222,
+                    "endColumn": 109,
+                    "endOffset": 7327
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2628,
+                        "endColumn": 105,
+                        "endOffset": 2733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7332,
+                    "endColumn": 104,
+                    "endOffset": 7432
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 245,
+                        "endColumn": 100,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 7437,
+                    "endColumn": 101,
+                    "endOffset": 7534
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.2.2/res/values-tl/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 230,
+                        "endColumn": 97,
+                        "endOffset": 327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 7539,
+                    "endColumn": 83,
+                    "endOffset": 7618
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2067,
+                        "endColumn": 83,
+                        "endOffset": 2146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 7623,
+                    "endColumn": 100,
+                    "endOffset": 7719
+                },
+                "from": {
+                    "file": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/values-tl/values-tl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2151,
+                        "endColumn": 100,
+                        "endOffset": 2247
+                    }
+                }
+            }
+        ]
+    }
+]

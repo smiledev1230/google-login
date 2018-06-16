@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/www/mpc/mpc_dev/platforms/android/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

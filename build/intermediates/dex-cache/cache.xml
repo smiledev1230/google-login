@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/smilemonkey1230/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_151aeece00b0236cbb0365640e8eefcebb453538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.33.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f64aa03e24769f0e10f35f1c08e4d004b5db067b">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-share-4.33.0_8ff1d0c50a6e5e88da4c99022cb08a9bd23bae6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf47665b22d68f560d1b8fa2e51b8c23a34574f2">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.2.2_b3503ab226b11740234c509d6f67fa5b22a1c91e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="671e3171a25ffd26d01b9d7b548ae50374a9e303">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-11.2.2_9f81b4600c1f052dd715bad33c33c72a129190cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_44ff9958ba15c1dad2d986cf4b5ab1c10ceba33e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.github.ergovia-mobile/android-transcoder/v0.1.10R_ergovia/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e04f6b79bf9a8b3c1d2d6585d8353427330e0db">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.github.ergovia-mobile-android-transcoder-v0.1.10R_ergovia_ffde624e6c09e3d96f24f3cb4010695ca7d737c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smilemonkey1230/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/common-1.0.0_8f577279206db574237c56d9a3a1ee3087db524c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.2.2_848610580abd6d5ac18aea5b37f49d8cd8d650bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.33.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.33.0_137883d955612aece1e5307723d3a6aa63f97919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.2.2_4ad5f9bc9b2d67c4d6655847be386b6635833f7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_e62e598fc415fbb021a4ba6f79e54e53e521b598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.33.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b478831814c5b6a1337f9e75d696d5faa6973519">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-core-4.33.0_fee343c0894904017a612dbf083bdad369e77cf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="73d3d4e86f3d6da0dd1987f7cff9fb07d5a36132">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-11.2.2_59be2fc8d695994ff1adecd323b86453ad48ce72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.33.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4d9151b05d74c7d17dba9485cbb56be7e16ed9aa">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-common-4.33.0_30c8efb6113b2b08e67102b15ca796833b872bc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6de60b559084bc9f17f4d8916aaa35e058831696">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.2.2_4f8d2c081423fd20ca54971b7c9a5a338c49c430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.1.0_9a2c29afd65523b62bf66939d11cc79c7ae6cb59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b35ff61463403c8aa7820fc2fa7caf6a29e31c2c">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-11.2.2_2fe071ec974c188358d76a76f06af9c7420b10b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd65158c56079313c616823c22ef4285b762d004">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-11.2.2_3cca922899a1d0911314e0105dbe896400a8bb23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smilemonkey1230/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_74f9a56f67c876ec33a745f79ff36c8ee51f1681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7ed36108b22a98a311676b5ad153d1e3587fcd16">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.2.2_b188d26abeae477fa7aa3e6b946c6fdbac889d16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_be35b64188562c3680706c61fad0d6f48b32b14a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2eb6645cc2bcf9fb0710798b7e07cb0f6f11f138">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-11.2.2_5845b4012a8092422c6296e8eee972b24aa58274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.onesignal/OneSignal/3.6.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2b97c728005e4d98f844b286e61adda209cab11">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.onesignal-OneSignal-3.6.3_e82ce4f50f93505e91c3f646a2dd07425aad4384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smilemonkey1230/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_dcab5a52c21aa09d69248e6c9a4aedb67f5fc442.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smilemonkey1230/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/okhttp-3.10.0_0cbb1cf17ab1382a3e9a6c483a15867d60416c71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a1c4ae24ce3c755b3ef7d79a343acfadfb0b097e">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-11.2.2_e1ef60f5610c0c7ffb1a1436f7a22b9ade9739ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-26.1.0_fade64f6f7bfb357fbbdfdabd0c57d6b984f5b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smilemonkey1230/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/core-3.3.0_8ad997fafd97bb91c0fcd3b12274eca5c77e6e63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.33.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-applinks-4.33.0_92418b149fef897fcb8c9a4ff07b31d5dbf58cb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smilemonkey1230/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/common-1.0.0_d1a70a0efe0f3238c1a4379d57fedda7131bfffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95dbd34766d3f158ef20de4b5b0206118e960709">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-login-4.33.0_31d7fa69d870e00e6216f7bfe5d855f5e02fe0b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.1.0_5990a46f7583ffe6d64ec6602be115115ba7dcc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-customtabs-26.1.0_2dd2fd374a8a274471233a99447d95561d8c345d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="227bbf04b4eae5247addf6569dc42af539a45f37">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.2.2_e5c524e4ee6937e5883138d07699a3c304ad12db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.1.0_8789b8006b55a66b0aaef6fcaff637ee0bb4fdfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.2.2_53cd4ccca15c6f9c7f9f72a335f5ac6259743988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.3.0/debug/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="df1a7a6af20c4eca090c1f535b77951ef6025bfb">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/CordovaLib-6.3.0-debug_46422f2eab5243e5ab73f13194a28b582310c612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_35fb07b292437f167119d770b1c9ae99352da48b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/smilemonkey1230/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/okio-1.14.0_fad8327dea8c423102db3e180a123dba7fc41ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-config/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="35d8afc7b357b4ece9b82c387361cf9ac97097ce">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-11.2.2_bb102e11140184bdaca1df784bf6c98d9f0f039e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.33.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ab689d36e3c7425adf1e32986075045d1baf4b2">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-places-4.33.0_c0ffbcf8dc4b06c8f969c682a07f0f3cbcb9d4ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_14e1bc8ea0c6a2d39c52c59dd46e312563ec2878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-api-phone/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a8f8c58325f0b364e30dca132b248ddabc71415e">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-api-phone-11.2.2_dc7e813991104048c24de9ffc1c1a270ab82ea90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_43b50982e938cb1a67ab1596dde39c6dd5edb3d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.33.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6d3dda07fbd30171edc150e4f13884fce5cd9926">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-messenger-4.33.0_7e67ded887bf4bbdf4bdcac93ec63c84e39c11b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b346a5d3fc5d6d1d36c6262c8cc865b76df9f40c">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/me.leolin-ShortcutBadger-1.1.4_71a490d8fcabde478698f2f35d3deedd5cc1dc4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fef1e7957f1df7c5ff164c5fb2ae709bf3d942ee">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-11.2.2_37a1e8341313da66260cb90f64236b46a0781a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.2.2_eed91cba8e3d711f20ce46a6417341a9b623b039.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/mpc/mpc_dev/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/www/mpc/mpc_dev/platforms/android/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_a994a468c5049fd7f756281f6f0f5379ba815528.jar" />
+    </item>
+
+</items>
